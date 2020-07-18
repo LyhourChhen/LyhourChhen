@@ -3,9 +3,9 @@
 ### Thanks for visiting my profile
 
 
-- 🔨 Building a Agricuture Startup in Cambodia call **[Ksephal](https://github.com/ksephal)** which is subsidiary of **[AsurRaa](https://github.com/asurraa)**.
+- 🔨  Building a Agricuture Startup in Cambodia call **[Ksephal](https://github.com/ksephal)** which is subsidiary of **[AsurRaa](https://github.com/asurraa)**.
 
-- 💻 Collaborate amazing technology at **[CUBETIQ](https://github.com/CUBETIQ)**.
+- 💻  Collaborate amazing technology at **[CUBETIQ](https://github.com/CUBETIQ)**.
 
 **Languages and Tools:**  
 
