@@ -1,4 +1,9 @@
 
+ <div align="center">
+  <img src="http://www.nyan.cat/cats/original.gif" height="128">
+</div>
+
+ 
  # PM me **[here](https://telegram.me/lyhourchhen)** 
 ### Thanks for visiting my profile
 
@@ -20,6 +25,3 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lyhourchhen)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  <img src="http://www.nyan.cat/cats/original.gif" height="128">
-</div>
