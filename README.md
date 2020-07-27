@@ -19,3 +19,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lyhourchhen)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+  <img src="http://www.nyan.cat/cats/original.gif" height="128">
+</div>
