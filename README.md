@@ -1,6 +1,6 @@
 
  <div align="center">
-  <img src="http://www.nyan.cat/cats/original.gif" height="128">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" height="128">
 </div>
 
 
