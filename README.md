@@ -5,7 +5,7 @@
 
 - 🔨  Working as CoreTeam at  **[AsurRaa](https://github.com/asurraa)**.
 
-- 💻  Collaborate amazing technology at **[CUBETIQ](https://github.com/CUBETIQ)**.
+- 💻  Building amazing startup behind the scenes.
 
 **Languages and Tools:**  
 
