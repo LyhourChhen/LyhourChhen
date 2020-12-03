@@ -1,7 +1,5 @@
 
  # PM me **[here](https://telegram.me/lyhourchhen)** 
-### Thanks for visiting my profile
-
 
 **Languages and Tools:**  
 
