@@ -2,8 +2,9 @@
  # PM me **[here](https://telegram.me/lyhourchhen)** 
 
 **Currently**
-[//]: <> (This is also a comment.)
-[//]: <>  - Lead a small startup called [AsurRaa](https://github.com/asurraa).
+<!---
+- Lead a small startup called [AsurRaa](https://github.com/asurraa).
+-->
 - Looking in dept to getting to know better at **Blockchain & AI**
 
 **Languages and Tools:**  
