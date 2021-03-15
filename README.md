@@ -2,7 +2,7 @@
  # PM me **[here](https://telegram.me/lyhourchhen)** 
 
 **Currently**
-- Lead a small startup called #AsurRaa.
+- Lead a small startup called [AsurRaa](https://github.com/asurraa).
 - Looking in dept to getting to know better at **Blockchain & AI**
 
 **Languages and Tools:**  
