@@ -1,9 +1,12 @@
 
  # PM me **[here](https://telegram.me/lyhourchhen)** 
 
+**Currently**
+- Lead a small startup called @AsurRaa.
+- Looking in dept to getting to know better at **Blockchain & AI**
+
 **Languages and Tools:**  
 
-- Looking in dept to getting to know better at **Blockchain & AI**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
