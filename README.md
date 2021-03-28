@@ -23,7 +23,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png"/></code>
 
-
+<!---
 <!--START_SECTION:waka-->
 ```text
 TypeScript   20 hrs 29 mins  ██████████████████████▒░░   89.17 % 
@@ -33,5 +33,6 @@ YAML         15 mins         ▒░░░░░░░░░░░░░░░░
 Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 <!--END_SECTION:waka-->
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyhourchhen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
