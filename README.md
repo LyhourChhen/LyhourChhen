@@ -3,7 +3,7 @@
   <img src="https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51cc5933d368febc351897_footer-img.svg">
 </div>
 
-# Hi I'm Lihour,  PM me **[here](https://telegram.me/lyhourchhen)** 
+# Hi I'm Lihour!
 
 **Currently**
 <!---
@@ -26,7 +26,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript         38 hrs 25 mins  ████████████████████▓░░░░   82.20 % 
+TypeScript         38 hrs 25 mins  ████████████████████████████████████████████████████████▓░░░░   82.20 % 
 JSON               3 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 Markdown           1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 YAML               53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
