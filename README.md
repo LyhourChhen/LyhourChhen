@@ -24,13 +24,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png"/></code>
 
 
-<!--START_SECTION:waka-->
-```text
-TypeScript   24 hrs 38 mins  ████████████████████▒░░░░   81.52 % 
-JSON         2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Markdown     49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-SQL          47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-JavaScript   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-```
-<!--END_SECTION:waka-->
 
