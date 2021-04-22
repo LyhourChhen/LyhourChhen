@@ -9,7 +9,7 @@
 <!---
 - Lead a small startup called [AsurRaa](https://github.com/asurraa).
 -->
-- Looking in dept to getting to know better at **Blockchain & AI**.
+- Building a small technology startup call **AsurRaa**
 
 **Languages and Tools:**  
 
