@@ -5,7 +5,7 @@
 
 # Hi I'm Lihour!
 
-**Currently**
+<!-- **Currently**
 <!---
 - Lead a small startup called [AsurRaa](https://github.com/asurraa).
 -->
@@ -25,3 +25,4 @@
 
 
 
+ -->
