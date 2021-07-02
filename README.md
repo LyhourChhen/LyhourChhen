@@ -5,7 +5,7 @@
 
 # Hi I'm Lihour!
 
-- Building a small technology startup call **AsurRaa**
+Building a small technology startup call **AsurRaa**
 
 
 <!---
